@@ -1,6 +1,6 @@
 ### Hi there, I'm Rakesh 👋
 
-## I'm a Full-stack Software Developer and Javascript Enthusiast, Who Likes Building Things In Javascript.!
+## I'm a Full-stack Software Developer and Javascript Enthusiast!
 - 🔭 I’m currently working @ [CodersGyan YouTube channel][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
