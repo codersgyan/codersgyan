@@ -1,7 +1,7 @@
 ### Hi there, I'm Rakesh 👋
 
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
-- 🔭 I’m currently working @ [CodersGyan YouTube channel][website]
+- 🔭 I build projects in free time @ [CodersGyan YouTube channel][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Reach 100K family at Coder's Gyan. 
