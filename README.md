@@ -52,7 +52,7 @@
 <img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
 
 [website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CoderGyan
+[twitter]: https://twitter.com/CodersGyan
 [facebook]: https://www.facebook.com/codersgyan
 [youtube]: https://www.youtube.com/c/codersgyan
 [instagram]: https://www.instagram.com/codersgyan
