@@ -4,7 +4,7 @@
 - 🔭 I build projects in free time @ [CodersGyan YouTube channel][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Reach 100K family at Coder's Gyan. 
+- 🥅 2023 Goals: Reach 100K family at Coder's Gyan. 
 
 ### Connect with me:
 
