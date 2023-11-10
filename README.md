@@ -1,10 +1,9 @@
-### Hi there, I'm Rakesh 👋
-
-## I'm a Full-stack Software Developer and Javascript Enthusiast!
-- 🔭 I build projects in free time @ [CodersGyan YouTube channel][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Reach 100K family at Coder's Gyan. 
+👋 Hi, I'm Rakesh - Full-Stack Developer & JavaScript Enthusiast!
+🚀 About Me
+🛠️ I love building projects in my free time for my CodersGyan YouTube channel.
+🌟 Actively expanding my skills in all areas of technology.
+🤝 Looking to collaborate with fellow content creators.
+🎯 2023 Goal: Grow the Coders Gyan community to 100K members!
 
 ### Connect with me:
 
