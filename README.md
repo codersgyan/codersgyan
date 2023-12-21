@@ -15,7 +15,7 @@
 
 
 
-## ✨ Github stars
+## ✨ Stats
 
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&theme=radical)
 
