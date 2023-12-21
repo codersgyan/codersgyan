@@ -30,7 +30,6 @@
 - [Tailwind css crash course](https://www.youtube.com/watch?v=91evwKVzGRE&list=PLXQpH_kZIxTVc4bayR6EC0X_y_qRxDRyJ)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
 
 [website]: https://www.youtube.com/c/codersgyan
 [twitter]: https://twitter.com/CodersGyan
