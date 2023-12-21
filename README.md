@@ -19,6 +19,12 @@
 
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&theme=radical)
 
+
+
+
+## Languages
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codersgyan&layout=compact&theme=buefy&hide_border=true)
+
 ---
 
 ### 📺 Latest YouTube Videos
