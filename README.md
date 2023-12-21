@@ -4,6 +4,18 @@
 ##### 🌟 Actively expanding my skills in all areas of technology.
 ##### 🤝 Looking to collaborate with fellow content creators.
 
+
+
+<h1 align="center"> 🔥 Contributions: </h1>
+
+<p align= "center">	
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=codersgyan&&show_icons=true&theme=dark" />
+	</p>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codersgyan&&show_icons=true&theme=dark)](https://git.io/streak-stats)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
