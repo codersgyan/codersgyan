@@ -23,7 +23,7 @@
 
 
 ## Languages
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codersgyan&layout=compact&theme=buefy&hide_border=true)
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codersgyan&layout=compact&theme=buefy&hide_border=true&hide_progress=true)
 
 ---
 
