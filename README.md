@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rakesh - Full-Stack Developer & JavaScript Enthusiast!
 ### 🚀 About Me
-##### 👷🏾‍♂️ IT Lead at at [Sber](https://sbertech.ru/) building Devops pipelines orchastrator.
+##### 👷🏾‍♂️ IT Lead at [Sber](https://sbertech.ru/) building Devops pipelines orchastrator.
 ##### 🛠️ I love building projects in my free time for my CodersGyan YouTube channel.
 ##### 🌟 Actively expanding my skills in all areas of technology.
 ##### 🤝 Looking to collaborate with fellow content creators. <br/><br/>
